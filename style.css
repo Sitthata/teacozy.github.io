@@ -5,7 +5,6 @@
 
     background-color: var(--clr-neutral-dark);
 
-    
 }
 
 *,
@@ -18,7 +17,6 @@
 
 body {
     line-height: 1.5;
-    min-height: 500vh;
     margin: 0px;
 }
 
